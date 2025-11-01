@@ -18,7 +18,7 @@ Every project lives in its own folder, and includes:
 ## 📂 Project List
 | # | Project Name | Description |
 |---|---------------|-------------|
-| 1 | [Project 01 – AI Chatbot](./project-01-chatbot) | A chatbot concept built entirely using AI-generated code and logic. |
+| 1 | [Virtual Stylist](./project-01-virtual-stylist) | AI app that generates styled outfit options based on one clothing item |
 | 2 | (coming soon) | More AI experiments on the way! |
 
 ---
